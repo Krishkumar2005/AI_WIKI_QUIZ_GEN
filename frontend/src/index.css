@@ -4,7 +4,7 @@ body {
   padding: 0;
   background: linear-gradient(to bottom right, #e0e9ee, #afd5f0);
   font-family: 'Poppins', sans-serif;
-  height: 108vh;
+  min-height: 108vh;
 }
 
 /* CENTERED MAIN CONTAINER */
