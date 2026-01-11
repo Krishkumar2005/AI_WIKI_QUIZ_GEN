@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+dnspython
+requests
+beautifulsoup4
+langchain-core
+langchain-google-genai
+python-dotenv 
+pydantic

@@ -1,0 +1,109 @@
+Wikipedia URLs tested = https://en.wikipedia.org/wiki/Albert_Einstein 
+
+json raw body = 
+{
+    "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+}
+
+Corresponding JSON API outputs = 
+
+{
+    "quiz_id": "6963b768fe66ef90a0e538ff",
+    "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "title": "Albert Einstein: Life and Scientific Contributions",
+    "quiz": {
+        "title": "Albert Einstein: Life and Scientific Contributions",
+        "summary": "Albert Einstein (1879–1955) was a German-born theoretical physicist best known for developing the theory of relativity (special and general) and the mass–energy equivalence formula, E=mc². He received the 1921 Nobel Prize in Physics for his discovery of the law of the photoelectric effect. His career spanned major institutions in Europe and the United States, where he settled permanently in 1933 after fleeing the Nazis. His 1905 'Annus Mirabilis' papers fundamentally changed physics. Late in life, he pursued a unified field theory and famously objected to the probabilistic nature of quantum mechanics.",
+        "questions": [
+            {
+                "question": "For which specific discovery did Albert Einstein receive the 1921 Nobel Prize in Physics?",
+                "options": [
+                    "The General Theory of Relativity",
+                    "The Special Theory of Relativity",
+                    "The law of the photoelectric effect",
+                    "The mass–energy equivalence formula (E=mc²)"
+                ],
+                "correct_answer": "The law of the photoelectric effect"
+            },
+            {
+                "question": "The year 1905 is often referred to as Einstein's 'annus mirabilis' (miracle year). Which of the following was NOT a groundbreaking theory or explanation published in his four major papers that year?",
+                "options": [
+                    "Explanation of Brownian motion",
+                    "Introduction of the special theory of relativity",
+                    "Proposal of the general theory of relativity",
+                    "Outline of the theory of the photoelectric effect"
+                ],
+                "correct_answer": "Proposal of the general theory of relativity"
+            },
+            {
+                "question": "What famous statement did Einstein make regarding his objection to the fundamental randomness introduced by quantum theory?",
+                "options": [
+                    "\"Imagination is more important than knowledge.\"",
+                    "\"The important thing is not to stop questioning.\"",
+                    "\"God does not play dice.\"",
+                    "\"Everything is relative.\""
+                ],
+                "correct_answer": "\"God does not play dice.\""
+            },
+            {
+                "question": "After renouncing his German citizenship in 1933, where did Albert Einstein settle and become a resident scholar for the remainder of his life?",
+                "options": [
+                    "Humboldt University of Berlin",
+                    "The Swiss Patent Office in Bern",
+                    "The Institute for Advanced Study in Princeton, New Jersey",
+                    "The California Institute of Technology"
+                ],
+                "correct_answer": "The Institute for Advanced Study in Princeton, New Jersey"
+            },
+            {
+                "question": "The general theory of relativity was observationally confirmed in 1919 by observations of which phenomenon, led by Sir Arthur Eddington?",
+                "options": [
+                    "The decay of binary pulsar orbits",
+                    "The bending of starlight by the Sun during a total eclipse",
+                    "The existence of gravitational waves",
+                    "The precession of the perihelion of Mars"
+                ],
+                "correct_answer": "The bending of starlight by the Sun during a total eclipse"
+            },
+            {
+                "question": "What was the name of the absorption refrigerator that Einstein co-invented and patented with his former student Leó Szilárd in 1930?",
+                "options": [
+                    "The Bose–Einstein refrigerator",
+                    "The Einstein refrigerator",
+                    "The Quantum Cooler",
+                    "The Bern Patent Office Chiller"
+                ],
+                "correct_answer": "The Einstein refrigerator"
+            },
+            {
+                "question": "On the eve of World War II, Einstein endorsed a letter to President Franklin D. Roosevelt alerting him to the potential German nuclear weapons program. Who was the primary co-author of this letter?",
+                "options": [
+                    "J. Robert Oppenheimer",
+                    "Niels Bohr",
+                    "Enrico Fermi",
+                    "Leó Szilárd"
+                ],
+                "correct_answer": "Leó Szilárd"
+            },
+            {
+                "question": "What was the name of the informal discussion group Einstein formed with friends in Bern in 1902 to discuss science and philosophy?",
+                "options": [
+                    "The Zurich Circle",
+                    "The Olympia Academy",
+                    "The Bern Thinkers' Club",
+                    "The Relativity Society"
+                ],
+                "correct_answer": "The Olympia Academy"
+            }
+        ],
+        "related_topics": [
+            "Theoretical Physics",
+            "Theory of Relativity",
+            "Quantum Mechanics",
+            "Photoelectric Effect",
+            "E=mc²",
+            "Cosmology",
+            "Manhattan Project"
+        ]
+    }
+}

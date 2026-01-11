@@ -1,0 +1,47 @@
+# -----------------------
+# Environment Variables
+# -----------------------
+.env
+.env.local
+.env.*.local
+
+# -----------------------
+# Python cache files
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------
+# Python virtual environments
+# -----------------------
+venv/
+env/
+.venv/
+ENV/
+
+# -----------------------
+# FastAPI / Uvicorn logs
+# -----------------------
+*.log
+
+# -----------------------
+# IDE / Editor configs
+# -----------------------
+.vscode/
+.idea/
+*.iml
+
+# -----------------------
+# System files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+
+# -----------------------
+# Generated files
+# -----------------------
+__pycache__/
+*.cache/
