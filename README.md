@@ -50,5 +50,8 @@ pydantic
      "{format_instructions}"
      )
 
-
+# Backend Live Url: https://ai-wiki-quiz-gen.onrender.com
+# Frontend Live Url: https://ai-wiki-quiz-gen.vercel.app
+# Screenshots of Quiz generation page (Tab 1), History view (Tab 2), and Details modal Drive Link of Folder: https://drive.google.com/drive/folders/1zPxrKW4lcGJZjM1v9jxzX0aVjJsW1FBm?usp=sharing
+# Resume Drive Link: https://drive.google.com/file/d/1SdifQjXZhvHTM7LZGzl1pNh1A1qRttc6/view?usp=sharing 
 
